@@ -47,9 +47,9 @@ Accepted by <i><b>TMLR</b></i> with minor revision. <i><b>KnowFM@ACL 2026</b></i
 In <i><b>EACL 2026</b></i> (<span style="font-weight:bold;">Oral</span>)
 
 
-- <span style="font-weight:bold;">Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</span> [<a href="https://aclanthology.org/2026.findings-eacl.329/" target="_blank">Paper</a>, <a href="https://github.com/ventr1c/TESSA" target="_blank">Code</a>]<br>
+<!-- - <span style="font-weight:bold;">Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</span> [<a href="https://aclanthology.org/2026.findings-eacl.329/" target="_blank">Paper</a>, <a href="https://github.com/ventr1c/TESSA" target="_blank">Code</a>]<br>
 Minhua Lin, Zhengzhang Chen, Yanchi Liu, Xujiang Zhao, **Zongyu Wu**, Junxiang Wang, Xiang Zhang, Suhang Wang, Haifeng Chen<br>
-In <i>Findings of <b>EACL 2026</b></i>
+In <i>Findings of <b>EACL 2026</b></i> -->
 
 
 - <span style="font-weight:bold;">GPR: Empowering Generation with Graph-Pretrained Retriever</span> [<a href="https://dl.acm.org/doi/10.1145/3774904.3792856" target="_blank">Paper</a>]<br>
@@ -89,14 +89,14 @@ In <i><b>ICLR 2025</b></i> (<span style="font-weight:bold;">Oral</span>)
 Zhiwei Zhang, Fali Wang, Xiaomin Li, **Zongyu Wu**, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang<br>
 In <i><b>ICLR 2025</b></i>
 
-- <span style="font-weight:bold;">A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness</span> [<a href="https://dl.acm.org/doi/10.1145/3768165" target="_blank">Paper</a>, <a href="https://github.com/FairyFali/SLMs-Survey" target="_blank">Project Page</a>] <br>
+<!-- - <span style="font-weight:bold;">A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness</span> [<a href="https://dl.acm.org/doi/10.1145/3768165" target="_blank">Paper</a>, <a href="https://github.com/FairyFali/SLMs-Survey" target="_blank">Project Page</a>] <br>
 Fali Wang, Zhiwei Zhang, Xianren Zhang, **Zongyu Wu**, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang<br>
-<i><b>ACM TIST</b></i>, 2025
+<i><b>ACM TIST</b></i>, 2025 -->
 
 
-- <span style="font-weight:bold;">LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning</span> [<a href="https://ieeexplore.ieee.org/document/11402034" target="_blank">Paper</a>, <a href="https://github.com/junjie-xu/GALLON" target="_blank">Code</a>] <br>
+<!-- - <span style="font-weight:bold;">LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning</span> [<a href="https://ieeexplore.ieee.org/document/11402034" target="_blank">Paper</a>, <a href="https://github.com/junjie-xu/GALLON" target="_blank">Code</a>] <br>
 Junjie Xu, **Zongyu Wu**, Minhua Lin, Xiang Zhang, Suhang Wang<br>
-In <i><b>IEEE BigData 2025</b></i>
+In <i><b>IEEE BigData 2025</b></i> -->
 
 
 - <span style="font-weight:bold;">Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs</span> [<a href="https://dl.acm.org/doi/10.1145/3701551.3703519" target="_blank">Paper</a>]<br>
