@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the College of <a href="https://ist.psu.edu/" target="_blank">Information Sciences and Technology</a> at <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>, where I am co-advised by <a href="https://suhangwang.ist.psu.edu/" target="_blank">Dr. Suhang Wang</a> and <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Dr. Xiang Zhang</a>. I was an Applied Scientist Intern at Amazon Web Services (AWS) in California. Before my Ph.D. journey, I received my Bachelor's degree in Computer Science and Technology from <a href="https://english.cqu.edu.cn" target="_blank">Chongqing University</a> in 2023. My recent research interests lie in multimodal learning, generative models, and graph learning.
+I am a Ph.D. candidate in the College of <a href="https://ist.psu.edu/" target="_blank">Information Sciences and Technology</a> at <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>, where I am co-advised by <a href="https://suhangwang.ist.psu.edu/" target="_blank">Dr. Suhang Wang</a> and <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Dr. Xiang Zhang</a>. I was an Applied Scientist Intern at Amazon Web Services (AWS) in California. Before my Ph.D. journey, I received my Bachelor's degree in Computer Science and Technology from <a href="https://english.cqu.edu.cn" target="_blank">Chongqing University</a> in 2023. My recent research interests lie in multimodal learning, graph learning, and their intersections.
 
 
 # 🔥 News
