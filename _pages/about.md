@@ -17,8 +17,24 @@ I'm actively seeking internship opportunities for Spring and Summer 2027. I'd lo
 
 # 🔥 Top News
 - *2026.05*: My internship work at AWS was accepted by TMLR.
+- *2026.01*: One paper was accepted by ICLR 2026.
+- *2026.01*: One paper was accepted by WWW 2026.
+- *2025.09*: One paper was accepted by NeurIPS 2025.
 - *2025.05*: Started as an Applied Scientist Intern at AWS AI.
+
+
+<details class="more-news" markdown="1">
+<summary>More News ↓</summary>
+
+- *2025.05*: One paper was accepted by ACL 2025 (Findings).
+- *2025.05*: One paper was accepted by KDD 2025.
+- *2025.05*: One paper was accepted by ICML 2025.
+- *2025.01*: Two papers were accepted by ICLR 2025.
+- *2024.10*: One paper was accepted by WSDM 2025.
+- *2024.09*: One paper was accepted by NeurIPS 2024.
 - *2024.03*: One paper was accepted by NAACL 2024.
+
+</details>
 
 # 📝 Research
 My recent research interests lie in language models and multimodal learning. * indicates equal contribution. Please see my Google Scholar profile for a more complete list.
@@ -30,47 +46,47 @@ My recent research interests lie in language models and multimodal learning. * i
 
 - **Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models** [[Paper](https://aclanthology.org/2026.eacl-long.371/)]  
   **Zongyu Wu**, Minhua Lin, Zhiwei Zhang, Fali Wang, Xianren Zhang, Xiang Zhang, Suhang Wang  
-  ***EACL 2026*** (**Oral**)
+  In ***EACL 2026*** (**Oral**)
 
-- **Universal Prompt Optimizer for Safe Text-to-Image Generation**  
+- **Universal Prompt Optimizer for Safe Text-to-Image Generation**  [[Paper]()]  
   **Zongyu Wu\***, Hongcheng Gao\*, Yueze Wang, Xiang Zhang, Suhang Wang  
-  ***NAACL 2024***
+  In ***NAACL 2024***
 
 - **GPR: Empowering Generation with Graph-Pretrained Retriever** [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792856)]  
   Xiaochen Wang, **Zongyu Wu**, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
-  ***WWW 2026***
+  In ***WWW 2026***
 
 - **Bradley-Terry and Multi-Objective Reward Modeling Are Complementary** [[Paper](https://openreview.net/forum?id=3QHKJcwnpb)]  
   Zhiwei Zhang, Hui Liu, Xiaomin Li, Zhenwei Dai, Jingying Zeng, Fali Wang, Minhua Lin, Ramraj Chandradevan, Linlin Wu, Zhen Li, Chen Luo, **Zongyu Wu**, Xianfeng Tang, Qi He, Suhang Wang  
-  ***ICLR 2026***
+  In ***ICLR 2026***
 
 - **AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks** [[Paper](https://openreview.net/forum?id=BuYtcTUMyA)]  
   Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, Zhiwei Zhang, **Zongyu Wu**, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang  
-  ***NeurIPS 2025***
+  In ***NeurIPS 2025***
 
 - **Divide-Verify-Refine: Can LLMs Self-align with Complex Instructions?** [[Paper](https://aclanthology.org/2025.findings-acl.709/)] [[Code](https://github.com/Zood123/DVR_ACL25)]  
   Xianren Zhang, Xianfeng Tang, Hui Liu, **Zongyu Wu**, Qi He, Dongwon Lee, Suhang Wang  
-  *Findings of* ***ACL 2025***
+  In *Findings of* ***ACL 2025***
 
 - **Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks** [[Paper](https://dl.acm.org/doi/10.1145/3711896.3736845)] [[Code](https://github.com/ventr1c/TPGA)]  
   Minhua Lin\*, Zhiwei Zhang\*, Enyan Dai, **Zongyu Wu**, Yilong Wang, Xiang Zhang, Suhang Wang  
-  ***KDD 2025***
+  In ***KDD 2025***
 
 - **Test-Time Multimodal Backdoor Detection by Contrastive Prompting** [[Paper](https://proceedings.mlr.press/v267/niu25b.html)] [[Code](https://github.com/Purshow/BDetCLIP)]  
   Yuwei Niu\*, Shuo He\*, Qi Wei, **Zongyu Wu**, Feng Liu, Lei Feng  
-  ***ICML 2025***
+  In ***ICML 2025***
 
 - **Robustness Inspired Graph Backdoor Defense** [[Paper](https://openreview.net/forum?id=trKNi4IUiP)] [[Code](https://github.com/zzwjames/RIGBD)]  
   Zhiwei Zhang, Minhua Lin, Junjie Xu, **Zongyu Wu**, Enyan Dai, Suhang Wang  
-  ***ICLR 2025*** (**Oral**)
+  In ***ICLR 2025*** (**Oral**)
 
 - **Catastrophic Failure of LLM Unlearning via Quantization** [[Paper](https://openreview.net/forum?id=lHSeDYamnz)] [[Code](https://github.com/zzwjames/FailureLLMUnlearning)]  
   Zhiwei Zhang, Fali Wang, Xiaomin Li, **Zongyu Wu**, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang  
-  ***ICLR 2025***
+  In ***ICLR 2025***
 
 - **Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs** [[Paper](https://dl.acm.org/doi/10.1145/3701551.3703519)]  
   Yilong Wang, Tianxiang Zhao, **Zongyu Wu**, Suhang Wang  
-  ***WSDM 2025*** (**Oral**)
+  In ***WSDM 2025*** (**Oral**)
 
 
 ## Preprints
