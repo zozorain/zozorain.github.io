@@ -16,16 +16,17 @@ I'm actively seeking internship opportunities for Spring and Summer 2027. I'd lo
 </p>
 
 # 🔥 Top News
+- *2026.08*: One paper was accepted by EMNLP 2026.
 - *2026.05*: My internship work at AWS was accepted by TMLR.
 - *2026.01*: One paper was accepted by ICLR 2026.
 - *2026.01*: One paper was accepted by WWW 2026.
 - *2025.09*: One paper was accepted by NeurIPS 2025.
-- *2025.05*: Started as an Applied Scientist Intern at AWS AI.
+
 
 
 <details class="more-news" markdown="1">
 <summary>More News ↓</summary>
-
+- *2025.05*: Started as an Applied Scientist Intern at AWS AI.
 - *2025.05*: One paper was accepted by ACL 2025 (Findings).
 - *2025.05*: One paper was accepted by KDD 2025.
 - *2025.05*: One paper was accepted by ICML 2025.
@@ -38,7 +39,27 @@ I'm actively seeking internship opportunities for Spring and Summer 2027. I'd lo
 
 # 📝 Research
 My recent research interests lie in language models and multimodal learning. * indicates equal contribution. Please see my Google Scholar profile for a more complete list.
+
+## Selected Preprints
+
+<!-- - **LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models** [[Preprint](https://arxiv.org/abs/2502.12359)]  
+  **Zongyu Wu\***, Yuwei Niu\*, et al.  
+  *arXiv* -->
+
+- **A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications** [[Preprint](https://arxiv.org/abs/2510.16724)] [[Project Page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]  
+  Minhua Lin, **Zongyu Wu**, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang  
+  *arXiv*
+
+
+<!-- - **Position: Agentic Evolution is the Path to Evolving LLMs** [[Preprint](https://arxiv.org/abs/2602.00359)] [[Code](https://github.com/A-EVO-Lab/A-EVOLVE)]  
+  Minhua Lin, Hanqing Lu, Zhan Shi, Bing He, Rui Mao, Zhiwei Zhang, **Zongyu Wu**, Xianfeng Tang, Hui Liu, Zhenwei Dai, Xiang Zhang, Suhang Wang, Benoit Dumoulin, Jian Pei  
+  *arXiv* -->
+
 ## Selected Publications
+
+ **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621)] [[Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
+  Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
+  Accepted by ***EMNLP 2026***
 
 - **Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation** [[Paper](https://openreview.net/forum?id=mZ0gGlXelF)]  
   Zhichao Xu\*, **Zongyu Wu\***, Yun Zhou, Aosong Feng, Kang Zhou, Sangmin Woo, Kiran Ramnath, Yijun Tian, Xuan Qi, Weikang Qiu, Lin Lee Cheong, Haibo Ding  
@@ -89,24 +110,8 @@ My recent research interests lie in language models and multimodal learning. * i
   In ***WSDM 2025*** (**Oral**)
 
 
-## Preprints
 
-- **LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models** [[Preprint](https://arxiv.org/abs/2502.12359)]  
-  **Zongyu Wu\***, Yuwei Niu\*, et al.  
-  *arXiv*
 
-- **A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications** [[Preprint](https://arxiv.org/abs/2510.16724)] [[Project Page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]  
-  Minhua Lin, **Zongyu Wu**, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang  
-  *arXiv*
-
-- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621)] [[Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
-  Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
-  *arXiv*
-
-- **Position: Agentic Evolution is the Path to Evolving LLMs** [[Preprint](https://arxiv.org/abs/2602.00359)] [[Code](https://github.com/A-EVO-Lab/A-EVOLVE)]  
-  Minhua Lin, Hanqing Lu, Zhan Shi, Bing He, Rui Mao, Zhiwei Zhang, **Zongyu Wu**, Xianfeng Tang, Hui Liu, Zhenwei Dai, Xiang Zhang, Suhang Wang, Benoit Dumoulin, Jian Pei  
-  *arXiv*
-
-- **Tevatron-Elastic: A Unified Abstraction for Training Elastic Retrievers and Rerankers** [[Preprint](https://arxiv.org/abs/2608.08809)] [[Code](https://github.com/zhichaoxu-shufe/tevatron-elastic/)]  
+<!-- - **Tevatron-Elastic: A Unified Abstraction for Training Elastic Retrievers and Rerankers** [[Preprint](https://arxiv.org/abs/2608.08809)] [[Code](https://github.com/zhichaoxu-shufe/tevatron-elastic/)]  
   Yu Wang, Shengyao Zhuang, Xueguang Ma, **Zongyu Wu**, Jimmy Lin, Vivek Srikumar, Zhichao Xu  
-  *arXiv*
+  *arXiv* -->
