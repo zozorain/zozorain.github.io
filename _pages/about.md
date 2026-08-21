@@ -57,7 +57,7 @@ My recent research interests lie in language models and multimodal learning. * i
 
 ## Selected Publications
 
- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621)] [[Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
+- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621)] [[Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
   Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
   Accepted by ***EMNLP 2026***
 
@@ -108,8 +108,6 @@ My recent research interests lie in language models and multimodal learning. * i
 - **Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs** [[Paper](https://dl.acm.org/doi/10.1145/3701551.3703519)]  
   Yilong Wang, Tianxiang Zhao, **Zongyu Wu**, Suhang Wang  
   In ***WSDM 2025*** (**Oral**)
-
-
 
 
 <!-- - **Tevatron-Elastic: A Unified Abstraction for Training Elastic Retrievers and Rerankers** [[Preprint](https://arxiv.org/abs/2608.08809)] [[Code](https://github.com/zhichaoxu-shufe/tevatron-elastic/)]  
