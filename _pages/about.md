@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. candidate in the College of Information Sciences and Technology at <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>, where I am co-advised by Prof. <a href="https://suhangwang.ist.psu.edu/" target="_blank">Suhang Wang</a> and Prof. <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Xiang Zhang</a>. I was an Applied Scientist Intern at Amazon Web Services (AWS) in Santa Clara, California. I received my Bachelor's degree in Computer Science and Technology from <a href="https://english.cqu.edu.cn" target="_blank">Chongqing University</a>.
+I am a Ph.D. candidate in the College of Information Sciences and Technology at <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>, where I am co-advised by Prof. <a href="https://suhangwang.ist.psu.edu/" target="_blank">Suhang Wang</a> and Prof. <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Xiang Zhang</a>. I was an Applied Scientist Intern at AWS AI in California. I received my Bachelor's degree in Computer Science and Technology from <a href="https://english.cqu.edu.cn" target="_blank">Chongqing University</a>. My recent research interests lie in multimodal learning, foundation models and graph learning.
 
 <p style="color: red; font-weight: bold;">
 I'm actively seeking internship opportunities for Spring and Summer 2027. I'd love to connect if you think there might be a fit with your team!
 </p>
 
-# 🔥 Top News
+<!-- # 🔥 Top News
 - *2026.08*: One paper was accepted by EMNLP 2026.
 - *2026.05*: My internship work at AWS was accepted by TMLR.
 - *2026.01*: One paper was accepted by ICLR 2026.
@@ -32,22 +32,25 @@ I'm actively seeking internship opportunities for Spring and Summer 2027. I'd lo
 - *2025.01*: Two papers were accepted by ICLR 2025.
 - *2024.10*: One paper was accepted by WSDM 2025.
 - *2024.09*: One paper was accepted by NeurIPS 2024.
-- *2024.03*: One paper was accepted by NAACL 2024.
+- *2024.03*: One paper was accepted by NAACL 2024. -->
 
-</details>
+<!-- </details> -->
 
 # 📝 Research
-My recent research interests lie in (multimodal) language models, reasoning, and graph learning. Selected works are listed below. * indicates equal contribution. Please visit my Google Scholar profile for a more complete list.
+ * indicates equal contribution. Please visit my Google Scholar profile for a more complete list.
 
 ## Selected Preprints
-
+- **MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning** [[Preprint](https://arxiv.org/abs/2610.19341)]  
+  **Zongyu Wu**, Yilong Wang, Xiaochen Wang, Minhua Lin, Yuan Zhong, Fenglong Ma, Xiang Zhang, Suhang Wang  
+  *arXiv*   
+  
 - **Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs** [[Preprint](https://arxiv.org/abs/2608.25986)]  
   **Zongyu Wu**\*, Yilong Wang\*, Xiaochen Wang, Minhua Lin, Zhichao Xu, Fenglong Ma, Xiang Zhang, Suhang Wang  
   *arXiv*   
 
-- **A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications** [[Preprint](https://arxiv.org/abs/2510.16724), [Project Page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]  
+<!-- - **A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications** [[Preprint](https://arxiv.org/abs/2510.16724), [Project Page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]  
   Minhua Lin, **Zongyu Wu**, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang  
-  *arXiv*
+  *arXiv* -->
 
 ## Selected Publications
 - **Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation** [[Paper](https://openreview.net/forum?id=mZ0gGlXelF)]  
@@ -62,13 +65,13 @@ My recent research interests lie in (multimodal) language models, reasoning, and
   **Zongyu Wu\***, Hongcheng Gao\*, Yueze Wang, Xiang Zhang, Suhang Wang  
   In ***NAACL 2024***
 
-- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621), [Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
-  Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
-  Accepted by ***EMNLP 2026***
-
 - **GPR: Empowering Generation with Graph-Pretrained Retriever** [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792856)]  
   Xiaochen Wang, **Zongyu Wu**, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
   In ***WWW 2026***
+
+- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621), [Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
+  Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
+  In ***EMNLP 2026***
 
 - **AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks** [[Paper](https://openreview.net/forum?id=BuYtcTUMyA)]  
   Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, Zhiwei Zhang, **Zongyu Wu**, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang  
