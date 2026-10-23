@@ -1,0 +1,1 @@
+This page is adapted from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), with sincere thanks for making the original source publicly available.

@@ -1,0 +1,82 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<span class='anchor' id='about-me'></span>
+I am a Ph.D. candidate in the College of Information Sciences and Technology at <a href="https://www.psu.edu/" target="_blank">The Pennsylvania State University</a>, where I am co-advised by Professor <a href="https://suhangwang.ist.psu.edu/" target="_blank">Suhang Wang</a> and Professor <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Xiang Zhang</a>. I was an Applied Scientist Intern at AWS AI in California. I received my Bachelor's degree in Computer Science and Technology from Chongqing University. My recent research interests lie in multimodal learning, foundation models and graph learning.
+
+<p style="color: red; font-weight: bold;">
+I'm actively seeking internship opportunities for Summer 2027. I'd love to connect if you think there might be a fit with your team!
+</p>
+
+
+# 📝 Research
+\* indicates equal contribution. Some works are listed below. Please visit my Google Scholar profile for a more complete list.
+
+## Selected Preprints
+- **MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning** [[Preprint](https://arxiv.org/abs/2610.19341)]  
+  **Zongyu Wu**, Yilong Wang, Xiaochen Wang, Minhua Lin, Yuan Zhong, Fenglong Ma, Xiang Zhang, Suhang Wang  
+  *arXiv*   
+  
+- **Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs** [[Preprint](https://arxiv.org/abs/2608.25986)]  
+  **Zongyu Wu**\*, Yilong Wang\*, Xiaochen Wang, Minhua Lin, Zhichao Xu, Fenglong Ma, Xiang Zhang, Suhang Wang  
+  *arXiv*   
+
+- **A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications** [[Preprint](https://arxiv.org/abs/2510.16724), [Project Page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]  
+  Minhua Lin, **Zongyu Wu**, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang  
+  *arXiv*
+
+## Publications
+- **Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation** [[Paper](https://openreview.net/forum?id=mZ0gGlXelF)]  
+  Zhichao Xu\*, **Zongyu Wu\***, Yun Zhou, Aosong Feng, Kang Zhou, Sangmin Woo, Kiran Ramnath, Yijun Tian, Xuan Qi, Weikang Qiu, Lin Lee Cheong, Haibo Ding  
+  ***TMLR***, 2026. Also at *KnowFM* @ ***ACL 2026***
+
+- **Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models** [[Paper](https://aclanthology.org/2026.eacl-long.371/)]  
+  **Zongyu Wu**, Minhua Lin, Zhiwei Zhang, Fali Wang, Xianren Zhang, Xiang Zhang, Suhang Wang  
+  In ***EACL 2026*** (**Oral**)
+
+- **Universal Prompt Optimizer for Safe Text-to-Image Generation**  [[Paper]()]  
+  **Zongyu Wu\***, Hongcheng Gao\*, Yueze Wang, Xiang Zhang, Suhang Wang  
+  In ***NAACL 2024***
+
+- **GPR: Empowering Generation with Graph-Pretrained Retriever** [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792856)]  
+  Xiaochen Wang, **Zongyu Wu**, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
+  In ***WWW 2026***
+
+- **Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents** [[Preprint](https://arxiv.org/abs/2605.30621), [Code](https://github.com/A-EVO-Lab/a-evolve/tree/release/harness-evolution)]  
+  Minhua Lin\*, Juncheng Wu\*, Zijun Wang, Zhan Shi, Yisi Sang, Bing He, Zewen Liu, Tianxin Wei, **Zongyu Wu**, Zhiwei Zhang, Dakuo Wang, Xiang Zhang, Benoit Dumoulin, Cihang Xie, Yuyin Zhou, Suhang Wang, Hanqing Lu  
+  In ***EMNLP 2026***
+
+- **AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks** [[Paper](https://openreview.net/forum?id=BuYtcTUMyA)]  
+  Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, Zhiwei Zhang, **Zongyu Wu**, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang  
+  In ***NeurIPS 2025***
+
+- **Divide-Verify-Refine: Can LLMs Self-align with Complex Instructions?** [[Paper](https://aclanthology.org/2025.findings-acl.709/), [Code](https://github.com/Zood123/DVR_ACL25)]  
+  Xianren Zhang, Xianfeng Tang, Hui Liu, **Zongyu Wu**, Qi He, Dongwon Lee, Suhang Wang  
+  In *Findings of* ***ACL 2025***
+
+- **Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks** [[Paper](https://dl.acm.org/doi/10.1145/3711896.3736845), [Code](https://github.com/ventr1c/TPGA)]  
+  Minhua Lin\*, Zhiwei Zhang\*, Enyan Dai, **Zongyu Wu**, Yilong Wang, Xiang Zhang, Suhang Wang  
+  In ***KDD 2025***
+
+- **Test-Time Multimodal Backdoor Detection by Contrastive Prompting** [[Paper](https://proceedings.mlr.press/v267/niu25b.html), [Code](https://github.com/Purshow/BDetCLIP)]  
+  Yuwei Niu\*, Shuo He\*, Qi Wei, **Zongyu Wu**, Feng Liu, Lei Feng  
+  In ***ICML 2025***
+
+- **Robustness Inspired Graph Backdoor Defense** [[Paper](https://openreview.net/forum?id=trKNi4IUiP), [Code](https://github.com/zzwjames/RIGBD)]  
+  Zhiwei Zhang, Minhua Lin, Junjie Xu, **Zongyu Wu**, Enyan Dai, Suhang Wang  
+  In ***ICLR 2025*** (**Oral**)
+
+- **Catastrophic Failure of LLM Unlearning via Quantization** [[Paper](https://openreview.net/forum?id=lHSeDYamnz), [Code](https://github.com/zzwjames/FailureLLMUnlearning)]  
+  Zhiwei Zhang, Fali Wang, Xiaomin Li, **Zongyu Wu**, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang  
+  In ***ICLR 2025***
+
+- **Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs** [[Paper](https://dl.acm.org/doi/10.1145/3701551.3703519)]  
+  Yilong Wang, Tianxiang Zhao, **Zongyu Wu**, Suhang Wang  
+  In ***WSDM 2025*** (**Oral**)
