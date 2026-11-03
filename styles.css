@@ -1,0 +1,283 @@
+:root {
+  --background: #fff;
+  --text: #20262e;
+  --muted: #47515c;
+  --section-blue: #264f78;
+  --link-blue: #1764a1;
+  --highlight-bg: #FFF3E8;
+  --divider: #e5e9ef;
+
+  color-scheme: light;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--background);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--background);
+}
+
+main {
+  width: 100%;
+  max-width: 800px;
+  margin: 50px auto 38px;
+  padding: 0 26px;
+}
+
+a {
+  color: var(--link-blue);
+  text-decoration: none;
+  text-underline-offset: 0.15em;
+}
+
+a:hover { text-decoration: underline; }
+
+a:not([href]) {
+  color: var(--muted);
+  cursor: default;
+  text-decoration: none;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--link-blue);
+  outline-offset: 4px;
+}
+
+p { margin: 0 0 15px; }
+
+header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.affiliation {
+  margin-bottom: 8px;
+  color: var(--muted);
+}
+
+.profile-links { margin: 0; }
+
+.separator {
+  margin: 0 7px;
+  color: var(--muted);
+}
+
+section { margin-top: 38px; }
+
+h2 {
+  margin: 0 0 14px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--divider);
+  color: var(--section-blue);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+section#bio { margin-top: 0; }
+
+section#bio > h2 {
+  margin-bottom: 8px;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+section#bio > p[style*="color: red"] {
+  margin: 12px 0 0;
+  padding: 9px 12px;
+  border-left: 3px solid #D6A17B;
+  background: var(--highlight-bg);
+  color: #3e3b35 !important;
+}
+
+.biography p:last-child,
+.research-interests {
+  margin-bottom: 12px;
+}
+
+.research-interests strong { font-weight: 700; }
+
+.demo-note {
+  margin: 18px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.research-overview { margin-bottom: 16px; }
+
+.research-group { margin-top: 0; }
+
+.research-group + .research-group { margin-top: 28px; }
+
+.research-group > h3 {
+  margin: 0 0 12px;
+  color: var(--section-blue);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 7px;
+  padding-left: 1px;
+}
+
+li:last-child { margin-bottom: 0; }
+
+li strong { font-weight: 700; }
+
+.paper-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.paper-list > .paper {
+  margin: 0;
+  padding-left: 0;
+  line-height: 1.5;
+}
+
+.paper-list > .paper + .paper {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--divider);
+}
+
+.paper-heading {
+  margin-bottom: 2px;
+  line-height: 1.45;
+}
+
+.paper-heading > h4 {
+  display: inline;
+  margin: 0;
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.paper-authors {
+  margin: 0 0 2px;
+  color: var(--muted);
+}
+
+.paper-authors strong { color: var(--text); }
+
+.paper-venue {
+  margin: 0;
+  color: var(--section-blue);
+  font-style: normal;
+}
+
+.paper-venue strong { font-style: italic; }
+
+.paper-highlights {
+  color: #173B73;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.paper-resources {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.paper-resources .separator { margin: 0 3px; }
+
+.paper-resources:empty { display: none; }
+
+.authors-note {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 5px 20px;
+  margin-top: 30px;
+  padding-top: 14px;
+  border-top: 1px solid var(--divider);
+  color: var(--muted);
+  font-size: 12px;
+}
+
+footer p { margin: 0; }
+
+footer a { color: var(--muted); }
+
+.skip-link {
+  position: absolute;
+  top: -80px;
+  left: 16px;
+  padding: 8px 12px;
+  background: var(--background);
+}
+
+.skip-link:focus { top: 10px; }
+
+@media (max-width: 600px) {
+  main {
+    margin-top: 32px;
+    padding: 0 22px;
+  }
+
+  h1 { font-size: 31px; }
+
+  header { margin-bottom: 17px; }
+
+  section { margin-top: 30px; }
+
+  h2 { font-size: 21px; }
+
+  .profile-links a,
+  .paper-resources > a {
+    display: inline-block;
+    padding: 3px 0;
+  }
+
+  footer { margin-top: 28px; }
+}
+
+@media print {
+  main {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .demo-note,
+  .profile-links,
+  .paper-resources,
+  footer {
+    display: none;
+  }
+
+  section { margin-top: 23px; }
+
+  .paper,
+  li {
+    break-inside: avoid;
+  }
+
+  a { color: inherit; }
+}

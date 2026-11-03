@@ -1,0 +1,1 @@
+The organization of this personal academic homepage was inspired by [Jon Barron's website](https://jonbarron.info/) and its [source repository](https://github.com/jonbarron/jonbarron.github.io).
